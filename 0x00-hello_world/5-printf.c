@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main-print out the documentation provided
- * return: 0
+ * main-main value,print out the documentation 
+ * return: 0 (success)
  */
 int main(void)
 {
