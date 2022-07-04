@@ -1,8 +1,8 @@
-#include < stdio.h >
+#include <stdio.h>
 
 /**
- * main print the size of the various types
- * Return; 0
+ *main print the size of the various types
+ *Return; 0
  */
 int main(void)
 {
