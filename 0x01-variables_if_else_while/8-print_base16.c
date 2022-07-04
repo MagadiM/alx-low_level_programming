@@ -5,19 +5,20 @@
  */
 int main(void)
 {
-/**displays hexadecimals
+/**
+ * displays hexadecimals
  * 123456789abcdef
- */ 
+ */
 char ch;
 int n;
 for (n = 48; n <= 57; n++)
-        {
-                putchar (n);
-        }
-for (ch = ''a'; ch <= 'z'; ch++)
+{
+	putchar (n);
+}
+for (ch = 'a'; ch <= 'z'; ch++)
 {
 	putchar (ch);
 }
-        putchar (10);
-        return (0);
+	putchar (10);
+	return (0);
 }
