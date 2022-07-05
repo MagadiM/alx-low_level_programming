@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * display alphaabetical letters except q and e
+ * display alphabetical letters except q and e
  * return 0 always
  */
 int main(void)
@@ -13,6 +13,6 @@ if (ch != 'q' && ch != 'e')
 	putchar (ch);
 }
 	putchar (10);
-return (0);
+	return (0);
 }
 }
