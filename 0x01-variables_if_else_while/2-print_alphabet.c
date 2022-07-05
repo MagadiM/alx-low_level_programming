@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
  * main ->displays alphabets in lowercase followed by a new line
- * return : always 0 (success)
+ * return 0 always (success)
  */
 int main(void)
 {
 char ch;
-for (ch = 97; ch <= 122; ch++)
+for (ch == 97; ch <= 122; ch++)
 {
 	putchar(ch);
 }
