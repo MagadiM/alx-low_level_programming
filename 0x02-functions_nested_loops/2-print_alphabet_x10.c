@@ -6,10 +6,10 @@
 
 void print_alphabet_x10(void)
 {
-	int j
-	int x
+	int j;
+	int i;
 
-	for (x = 0; x < 10; x++)
+	for (i = 0; i < 10; i++)
 	{
 		for (j = 'a'; j <= 'z'; j++)
 		{
