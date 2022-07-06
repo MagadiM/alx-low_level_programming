@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
  *main - Entry point
- *
  *Description: 'the program will print out with proper grammar
- *
- * return 0 always (success)
+ *return 0 always
  */
 int main(void)
 {
