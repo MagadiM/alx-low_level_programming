@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main - Entry point
- *return:0 (success)
+ *main -> displays the statement provided followed by a new line
+ *return 0 always (success)
  */
 int main(void)
 {
