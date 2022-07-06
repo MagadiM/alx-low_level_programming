@@ -1,14 +1,14 @@
 #include "main.h"
 /**
- * print_alphabet - prints the alphabets
+ * print_alphabet:  prints the alphabets
  */
 void print_alphabet(void)
 {
-	int a;
+	int n;
 
-	for (a = 'a'; a <= 'z'; a++)
+	for (n = 'a'; n <= 'z'; n++)
 	{
-		_putchar('a');
+		_putchar(n);
 	}
 	_putchar('\n');
 }
