@@ -1,6 +1,6 @@
 #include "main.h"
 
-/**main displays -putchar followed by a new line
+/**main displays -putchar
  * return 0 always
  */
 int main(void)
