@@ -1,6 +1,7 @@
 #include "main.h"
 
-/**main displays -putchar
+/**
+ * main displays -putchar
  * return 0 always
  */
 int main(void)
