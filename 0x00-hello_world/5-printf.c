@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- *main -> main displays the statement provided followed by a new line
- *Description: 'the print will print out with proper grammar
- *return 0 always (success)
+ *main - Entry point
+ *
+ *Description: 'the program will print out with proper grammar
+ *
+ * return 0 always (success)
  */
 int main(void)
 {
