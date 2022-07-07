@@ -4,6 +4,7 @@
 
 /**
  * main -> assigns a random number to the variable n during execution
+ * positive_or_negative - displays whether a number is greater or lesser than
  * prints the last digit of the number stored in the variable n
  * Return : 0 (always)
  */
