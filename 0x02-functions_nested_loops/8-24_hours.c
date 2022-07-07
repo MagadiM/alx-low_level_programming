@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * jack bauer - print every minute of the day of Jack Bauer
+ * jack_bauer - print every minute of the day of Jack Bauer
  * Descriptiom: start from 00:00 to 23:59
  */
 void jack_bauer(void)
@@ -30,7 +30,7 @@ void jack_bauer(void)
 		}
 		if (b > 9)
 		{
-			b = 0 ;
+			b = 0;
 			a++;
 		}
 		x++;
