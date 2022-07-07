@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.hiii>
+#include <stdio.h>
 /**
  *main- will assign a random number to the variable each time it is executed and prints out based on the condition
 return : 0 (success)
