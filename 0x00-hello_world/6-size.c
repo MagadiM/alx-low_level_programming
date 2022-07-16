@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - program entry point
- * void - there are no arguements
+ * main - prints the sizes of the different variable types
+ * Description ; prints the size of the data types
  *
- * Return 0 to exit
+ * Return 0 to exit properly
  */
+
 int main(void)
 
 {
 
-	/*size of operator is used to evaluate the size of the variable*/
 	printf("Size of a char: %d byte(s)\n", sizeof(charType));
 	printf("Size of a int: %d byte(s)\n", sizeof(intType));
 	printf("Size of a long int: %d byte(s)\n", sizeof(long intType));
