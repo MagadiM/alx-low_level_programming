@@ -3,13 +3,15 @@
 #include <stdio.h>
 
 /**
- * main -> assigns a random number to the variable n during execution
+ * main - assigns a random number to the variable n during execution
  * positive_or_negative - displays whether a number is greater or lesser than
- * prints the last digit of the number stored in the variable n
+ * Description; prints the last digit of the number stored in the variable n
+ *
  * Return : 0 (always)
  */
 int main(void)
 {
+
 	int n;
 
 	srand(time(0));
@@ -17,11 +19,10 @@ int main(void)
 
 	if (n > 0)
 		printf("%d is positive\n", n);
-	if (n == 0)
+	else if (n == 0)
 		printf("%d is zero\n", n);
-	if (n < 0)
-	{
+	else
 		printf("%d is negative\n", n);
-	}
+
 	return (0);
 }
